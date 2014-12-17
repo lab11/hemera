@@ -11,7 +11,7 @@ COMPONENT=RpiGatdForwarderC
 # PFLAGS += -DUSE_TCP
 
 ### GATD Server Location/URL
-PFLAGS += -DGATD_HOST=\"inductor.eecs.umich.edu\"
+PFLAGS += -DGATD_HOST=\"gatd.eecs.umich.edu\"
 
 ### GATD Port for UDP (User Datagram Protocol)
 PFLAGS += -DGATD_PORT_UDP=4001

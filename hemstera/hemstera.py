@@ -1,7 +1,7 @@
 import sys, hue, time, urllib
 import socketIO_client as sioc
 
-SOCKETIO_HOST      = 'inductor.eecs.umich.edu'
+SOCKETIO_HOST      = 'gatd.eecs.umich.edu'
 SOCKETIO_PORT      = 8082
 SOCKETIO_NAMESPACE = 'stream'
 

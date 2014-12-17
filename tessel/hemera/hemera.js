@@ -14,7 +14,7 @@ var NODE_ID = 20;
 
 // HTTP REQUEST SETUP
 var httprequest = {
-  host    : 'inductor.eecs.umich.edu',
+  host    : 'gatd.eecs.umich.edu',
   port    : 8081,
   path    : '/TtYWhXKRke',
   method  : 'POST',
